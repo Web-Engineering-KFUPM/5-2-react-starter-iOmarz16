@@ -32,7 +32,7 @@
 .dashboard-main {
   flex: 1;
   padding: 2rem;
-  background-color: #f5f7fa;
+  background-color: #1d4f9a;
 }
 
 .cards-container {
@@ -43,5 +43,14 @@
   max-width: 1200px;
   margin: 0 auto;
 }
+
+.student-card {
+  background-color: #0e5b58; 
+  color: #ffffff;            /* أبيض لظهور النص بوضوح */
+  padding: 1rem;
+  border-radius: 8px;
+  width: 250px;
+}
+
 
 /* Add your custom styles below */
